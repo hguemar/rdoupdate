@@ -1,2 +1,3 @@
 PyYAML
+pycurl --install-option="--with-nss"
 urlgrabber
